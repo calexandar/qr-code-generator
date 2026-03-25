@@ -14,14 +14,14 @@ A simple, modern QR code generator built with PHP and CSS. Generate QR codes for
 
 ## Supported Content Types
 
-| Type | Description |
-|------|-------------|
-| URL | Website URLs |
-| Text | Plain text |
-| Email | Email with subject and body |
-| SMS | Text message with phone number |
-| vCard | Contact information |
-| Event | Calendar event |
+| Type  | Description                    |
+| ----- | ------------------------------ |
+| URL   | Website URLs                   |
+| Text  | Plain text                     |
+| Email | Email with subject and body    |
+| SMS   | Text message with phone number |
+| vCard | Contact information            |
+| Event | Calendar event                 |
 
 ## Requirements
 
@@ -56,7 +56,7 @@ composer install
 
 MIT License
 
-Copyright (c) 2024
+Copyright (c) 2026
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
